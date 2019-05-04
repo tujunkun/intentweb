@@ -27,4 +27,5 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-![image]()
+![image](https://github.com/tujunkun/intentweb/blob/master/b1.png)
+![image](https://github.com/tujunkun/intentweb/blob/master/b2.png)
